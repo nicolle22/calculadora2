@@ -1,0 +1,28 @@
+.input-valor{
+    margin:8px auto;
+	width:97%;
+	height:40px;
+	font-size: 16px;
+	overflow:hidden;
+	text-align: right;
+	color:#48484D;
+	padding: 4px;
+	background-color:#fff;
+	box-shadow: inset -1px -1px 4px 1px #eee;
+}
+* {
+    margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size:22px;
+}
+#limpar{
+
+  width: 100%;
+}
+#btn btn-info{
+width: 70%;
+height: 70%;
+padding-bottom:50%; 
+}
